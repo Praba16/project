@@ -1,0 +1,49 @@
+Spring:     https://www.javatpoint.com/spring-modules
+(frame work of frame work)
+
+
+java Frame work->creating enterprice application
+
+
+Core java App->Stand Alone App->download and access->JAR package
+Web App-> Advanced java-> no download only Access-> WAR package
+Enterprice App-> Combination of above 2
+
+J2SE-Core JAVA
+J2EE-Adv JAVA
+
+J2EE
+Servlet
+JSP/JSTL
+JMS
+JNDI
+EJB
+Web SErvices
+
+Spring Design Pattern
+1.IOC->Inversion of Control
+2.DI->Dependency Indection
+
+
+
+
+Spring MVC->Model View and Controller
+Model->Entity Beans
+View->HTML/JSP Pages(Front end)
+Controller->FrontController(Dispatcher Servlet)
+
+DispatcherServlet->Front Controller
+
+
+Flow of the Spring Project:
+Web.xml->Spring-servlet.xml(Spring Config)->Controller->Prefix,Suffix->View->Controller->Method->display
+
+
+Project Process;
+
+Bean
+DAO->DAOImpl
+Service->Service Impl
+Controller
+List JSP
+Form JSP
